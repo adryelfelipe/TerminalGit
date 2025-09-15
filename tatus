@@ -1,0 +1,79 @@
+[33mcommit 8ec7ad48d47f920093b49b8c984afc3ac2ebfc7d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtestandoD[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Adryel Felipe <adryxd003@gmail.com>
+Date:   Mon Sep 15 10:57:54 2025 -0300
+
+    readme neles!!!
+
+[33mcommit 9bf271c1ef3cb8e6d782f6cf07fd6276012f4ed7[m
+Author: Adryel Felipe <adryxd003@gmail.com>
+Date:   Mon Sep 15 10:51:31 2025 -0300
+
+    Update README.md
+
+[33mcommit 79aeeeba1578e5d57f2951476cfaa14e166efd72[m
+Author: Adryel Felipe <adryxd003@gmail.com>
+Date:   Mon Sep 15 10:48:04 2025 -0300
+
+    push após modificações e pull, oq poderia acontecer?
+
+[33mcommit ad893e9992a166936dc66fd128dda874be1130ea[m
+Merge: 9c3ecc3 af5feab
+Author: Adryel Felipe <adryxd003@gmail.com>
+Date:   Mon Sep 15 10:45:46 2025 -0300
+
+    mergezin suave?
+
+[33mcommit 9c3ecc3971690ad9fe83718b43de466070e6c5f4[m
+Author: Adryel Felipe <adryxd003@gmail.com>
+Date:   Mon Sep 15 10:44:08 2025 -0300
+
+    pog
+
+[33mcommit af5feabf8298c1f078667fff4cfb3475b1e50cad[m
+Author: Adryel Felipe <adryxd003@gmail.com>
+Date:   Mon Sep 15 10:43:19 2025 -0300
+
+    Atualizando README para testar MERGE do PULL
+
+[33mcommit 52b006261076bc55a421aa059b92fbeaaabf5540[m
+Author: Adryel Felipe <adryxd003@gmail.com>
+Date:   Mon Sep 15 10:42:25 2025 -0300
+
+    comitando de novo para ver o merge do git pull
+
+[33mcommit cb5f4aac48cb2ead5fdb9a3ca7456b2d7273b3d6[m
+Merge: e939c1a 55a3d47
+Author: Adryel Felipe <adryxd003@gmail.com>
+Date:   Mon Sep 15 10:41:02 2025 -0300
+
+    Merge branch 'master' of github.com:adryelfelipe/TerminalGit
+
+[33mcommit e939c1a0a5c6216fb186567d288521ea322e0f3b[m
+Author: Adryel Felipe <adryxd003@gmail.com>
+Date:   Mon Sep 15 10:40:28 2025 -0300
+
+    colocando o readme pós git pull
+
+[33mcommit 5cfaed08494967ccf21c19f2ffe1802bd463c5b9[m
+Author: Adryel Felipe <adryxd003@gmail.com>
+Date:   Mon Sep 15 09:36:54 2025 -0300
+
+    Terceiro commit antes de dar o pull, oq pode acontecer? Talvez um merge inusitado
+
+[33mcommit 55a3d4750af198bd4bb5be8bc2f2797cee6ebaa8[m
+Author: Adryel Felipe <adryxd003@gmail.com>
+Date:   Mon Sep 15 10:33:44 2025 -0300
+
+    Adicionando readme do projeto
+
+[33mcommit c8dc71056c24207bfd160e09c23b8de219e94f85[m
+Author: Adryel Felipe <adryxd003@gmail.com>
+Date:   Mon Sep 15 09:49:57 2025 -0300
+
+    Atualiza Main.java
+
+[33mcommit aa1a70835345d54814be4e36228c55af319e421b[m
+Author: Adryel Felipe <adryxd003@gmail.com>
+Date:   Mon Sep 15 09:36:54 2025 -0300
+
+    Base do projeto
